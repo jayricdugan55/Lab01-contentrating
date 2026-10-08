@@ -1,0 +1,27 @@
+p {
+  text-align: center;
+  margin: 10px 0;
+}
+
+.like-btn {
+  background-color: #3b82f6;
+  color: white;
+  border: none;
+  padding: 3px 10px;
+  font-size: 0.75rem;
+  border-radius: 3px;
+  margin: 0 4px;
+  cursor: pointer;
+}
+
+.dislike-btn {
+  background-color: #3b82f6;
+  color: white;
+  border: none;
+  padding: 3px 10px;
+  font-size: 0.75rem;
+  border-radius: 3px;
+  margin: 0 4px;
+  cursor: pointer;
+}
+
